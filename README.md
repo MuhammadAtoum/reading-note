@@ -17,6 +17,6 @@
 | Read: 04b - Computer Architecture and Logic | [link](https://muhammadatoum.github.io/reading-notes/how_computer_work.html) |
 | lab_Structure_web_pages_with_HTML.html | [link](https://muhammadatoum.github.io/reading-notes/lab_Structure_web_pages_with_HTML.html) |
 | hats page by html with my partner | [link](https://muhammadatoum.github.io/hats/index.html) |
-| - | [link]() |
+|reading 04C| [link](https://muhammadatoum.github.io/reading-notes/Read-04c) |
 | - | [link]() |
 | - | [link]() |
