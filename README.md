@@ -18,5 +18,5 @@
 | lab_Structure_web_pages_with_HTML.html | [link](https://muhammadatoum.github.io/reading-notes/lab_Structure_web_pages_with_HTML.html) |
 | hats page by html with my partner | [link](https://muhammadatoum.github.io/hats/index.html) |
 |reading 04C| [link](https://muhammadatoum.github.io/reading-notes/Read-04c) |
-| - | [link]() |
+|reading 05| [link](https://muhammadatoum.github.io/reading-notes/read05) |
 | - | [link]() |
