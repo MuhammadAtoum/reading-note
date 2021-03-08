@@ -130,6 +130,3 @@ number between 0 and 1.0.
 For example, 0.5 represents
 50% transparency, and 0.75
 represents 75% transparency.
-
-
-# END
